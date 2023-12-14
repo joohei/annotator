@@ -5,8 +5,8 @@ const Recipe = ({ instructions, handleClick }) => {
   return (
     <div className={styles.container}>
       <div className={styles.instructions}>
-        {instructions.map((instruction) => (
-          <React.Fragment key={instruction}>
+        {instructions.map((instruction, index) => (
+          <React.Fragment key={index}>
             <span>{instruction}</span>
             <hr />
           </React.Fragment>

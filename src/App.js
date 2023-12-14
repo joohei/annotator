@@ -10,7 +10,7 @@ import styles from "./App.module.css";
 const App = () => {
   const [annotations, setAnnotations] = useLocalStorage(
     "annotations",
-    Array.from({ length: recipes.length }),
+    Array.from({ length: 0 }),
   );
   const [pointer, setPointer] = useState(annotations.length);
   const [checked, setChecked] = useState(() => {
@@ -18,7 +18,7 @@ const App = () => {
     return tags.map((tag) => accept?.includes(tag) ?? false);
   });
 
-  document.title = String(pointer / annotations.length).slice(0, 4);
+  document.title = String(annotations.length);
 
   const handleSubmit = () => {
     const next = (pointer + 1) % recipes.length;
@@ -40,7 +40,7 @@ const App = () => {
   const download = () => {
     const blob = new Blob(
       [
-        annotations
+        Array.from(annotations)
           .map((a) => {
             a.options = tags.map((tag) => ({ id: tag, text: tag }));
             a.config = { choice_style: "multiple" };
