@@ -12,13 +12,13 @@ const App = () => {
     "annotations",
     Array.from({ length: 0 }),
   );
-  const [pointer, setPointer] = useState(annotations.length);
+  const [pointer, setPointer] = useState(800);
   const [checked, setChecked] = useState(() => {
     const accept = annotations.at(pointer)?.accept;
     return tags.map((tag) => accept?.includes(tag) ?? false);
   });
 
-  document.title = String(annotations.length);
+  document.title = String(pointer);
 
   const handleSubmit = () => {
     const next = (pointer + 1) % recipes.length;
@@ -40,7 +40,7 @@ const App = () => {
   const download = () => {
     const blob = new Blob(
       [
-        Array.from(annotations)
+        Array.from(annotations.slice(0, 800))
           .map((a) => {
             a.options = tags.map((tag) => ({ id: tag, text: tag }));
             a.config = { choice_style: "multiple" };

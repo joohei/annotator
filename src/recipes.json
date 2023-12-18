@@ -1082,7 +1082,6 @@
         "0,5 rkl valkoviinietikkaa"
     ],
     [
-        ":",
         "1 sipuli",
         "2 valkosipulinkynttä",
         "2 rkl aurinkokuivattujen tomaattien öljyä",
@@ -2316,7 +2315,6 @@
         "0,5 chili",
         "1 rs tomaatteja",
         "1 pkt tortillalettuja",
-        ":",
         "1 prk creme fraichea",
         "0,5 ps korianteria",
         "0,5 chili"
@@ -7947,6 +7945,7 @@
         "1 ruukku salaattia"
     ],
     [
+        "6-7 dl vettä",
         "1 pkt broilerin paistileikkeitä",
         "1 kanafondi",
         "1 tl suolaa",
@@ -8060,6 +8059,7 @@
         "2 rkl tomaattipyreetä",
         "1 rkl (dijon)sinappia",
         "2 rkl vehnäjauhoja",
+        "4,5 dl vettä",
         "1 ps salaattia",
         "1 kurkku",
         "2 rkl öljyä",
@@ -8077,15 +8077,18 @@
         "1-2 rkl valkoviinietikkaa",
         "3 rkl tomaattipyreetä",
         "1 tlk tomaattimurskaa + 2-3 dl vettä",
+        "8-9 kpl lasagnelevyä",
         "1 pkt tuorejuustoa",
         "1 ps pastajuustoa",
         "1 kurkku"
     ],
     [
+        "1 kg kukkakaalia",
         "1 sipuli",
         "2 valkosipulinkynttä",
         "1 prk valkoisia papuja",
         "1-2 rkl öljyä",
+        "10 dl vettä",
         "1,5-2 tl suolaa",
         "0,5 tl mustapippuria",
         "1 tl juustokuminaa",
@@ -8130,7 +8133,9 @@
         "1-2 rkl valkoviinietikkaa",
         "1 prk tomaattipyreetä (2 rkl)",
         "2 rkl vehnäjauhoja",
+        "5-6 dl vettä",
         "1 lihafondi",
+        "400 g pastaa",
         "2 rkl öljyä",
         "1 rkl valkoviinietikkaa",
         "0,5 rkl (dijon)sinappia",
@@ -8222,6 +8227,7 @@
         "1 rkl öljyä",
         "1 pala inkivääriä (2 cm)",
         "3 porkkanaa",
+        "12 dl vettä",
         "1-2 rkl öljyä",
         "1 tl suolaa",
         "ripaus mustapippuria",
@@ -8578,6 +8584,7 @@
         "1-2 rkl valkoviinietikkaa",
         "1 tlk tomaattimurskaa + 2 dl vettä",
         "8 dl vettä",
+        "4 dl bulguria",
         "0,5 tl suolaa",
         "0,5 ruukku minttua",
         "1-2 rkl öljyä",
@@ -8693,6 +8700,7 @@
         "0,5 tl mustapippuria",
         "1 tl kuivattua timjamia",
         "2 rkl öljyä",
+        "n. 400 g pastaa + 1 dl pastan keitinvettä",
         "1 punasipuli",
         "2-3 valkosipulinkynttä",
         "2-3 rkl öljyä",
@@ -8912,6 +8920,7 @@
         "1-2 rkl valkoviinietikkaa",
         "1 tlk tomaattimurskaa + 1 dl vettä",
         "1 rs rucolaa",
+        "350-400 g pastaa",
         "1 ps pastajuustoa"
     ],
     [
@@ -8947,7 +8956,9 @@
         "1-2 rkl valkoviinietikkaa",
         "1 prk tomaattipyreetä (2 rkl)",
         "2 rkl vehnäjauhoja",
+        "5-6 dl vettä",
         "1 lihafondi",
+        "400 g pastaa",
         "2 rkl öljyä",
         "1 rkl valkoviinietikkaa",
         "0,5 rkl (dijon)sinappia",
@@ -9012,6 +9023,7 @@
         "0,5 sitruunan kuori +",
         "mehu",
         "0,5 ruukku minttua",
+        "n. 350-400 g pastaa",
         "1 rkl öljyä"
     ],
     [
@@ -9052,6 +9064,7 @@
         "1 rkl voita ja öljyä",
         "4-5 rkl tomaattipyreetä",
         "1 tl kuivattua yrttisekoitusta",
+        "n. 11-12 dl vettä",
         "1-1,5 tl suolaa",
         "8 kpl maustepippuria",
         "2-3 laakerinlehteä",
@@ -9137,7 +9150,8 @@
         "2 rkl valkoviinietikkaa",
         "2 rkl soijakastiketta",
         "1 prk kookosmaitoa + n. 1-2 dl vettä",
-        "0,5 ruukku ruohosipulia"
+        "0,5 ruukku ruohosipulia",
+        "n. 3-4 dl ruokakauraa"
     ],
     [
         "1 prk tomaattimurskaa",
@@ -9160,6 +9174,7 @@
         "ripaus suolaa ja mustapippuria"
     ],
     [
+        "n. 1 kg bataattia",
         "0,5 tl suolaa",
         "0,5 tl mustapippuria",
         "2 rkl öljyä",
@@ -9255,7 +9270,8 @@
         "0,5 tl mustapippuria",
         "1 tl kuivattua timjamia",
         "1 prk kaurakermaa + 1-2 dl vettä",
-        "0,5 sitruunan mehu"
+        "0,5 sitruunan mehu",
+        "n. 350-400 g pastaa"
     ],
     [
         "1 pkt kirjolohta",
@@ -9286,6 +9302,7 @@
         "1 ps Ruokaboksi jasmiiniriisiä"
     ],
     [
+        "n. 1 kg bataattia",
         "4 porkkanaa",
         "1 sipuli",
         "2 valkosipulinkynttä",
@@ -9295,6 +9312,7 @@
         "1 tl curryjauhetta",
         "0,5 tl juustokuminaa",
         "1 rkl valkoviinietikkaa",
+        "n. 9-10 dl vettä",
         "1 prk kookosmaitoa",
         "1 ps ruisleipää",
         "1 prk raejuustoa"
@@ -9369,10 +9387,12 @@
         "1 ps suolapähkinöitä"
     ],
     [
+        "n. 1 kg perunoita",
         "3 porkkanaa",
         "1 sipuli",
         "1 fenkoli",
         "1 rkl voita ja 1 rkl öljyä",
+        "n. 10-12 dl vettä",
         "1-1,5 tl suolaa",
         "8-10 maustepippuria",
         "0,5 tl fenkolinsiemeniä",
@@ -9393,6 +9413,7 @@
         "1 tl kuivattua yrttisekoitusta",
         "0,5 ruukku korianteria",
         "0,5 sitruunan mehu",
+        "n. 350-400 g pastaa + 1 dl keitinvettä",
         "1 ps pastajuustoa"
     ],
     [
@@ -9433,6 +9454,7 @@
         "1 tl chilijauhetta",
         "2 rkl valkoviinietikkaa",
         "1 tlk tomaattimurskaa + n. 2 dl vettä",
+        "n. 1 kg perunoita",
         "2-3 rkl voita",
         "0,5 tl suolaa",
         "0,5 sitruunan mehu",
@@ -9455,7 +9477,8 @@
         "1-2 rkl öljyä",
         "1 prk kaurakermaa",
         "0,5 sitruunan kuori ja mehut",
-        "1 ps siemensekoitusta"
+        "1 ps siemensekoitusta",
+        "n. 400 g pastaa"
     ],
     [
         "1 ps kvinoaa",
@@ -9529,6 +9552,7 @@
         "3 rkl oliiviöljyä fetajuuston päälle",
         "1 tl kuivattua oreganoa",
         "1 tl kuivattua basilikaa",
+        "n. 350-400 g pastaa",
         "0,5 ruukku minttua",
         "0,5 sitruunan mehu"
     ],
@@ -9549,6 +9573,7 @@
         "2 pkt pitaleipiä"
     ],
     [
+        "n. 1 kg perunoita",
         "2-3 rkl voita",
         "0,5-1 tl suolaa",
         "1-2 valkosipulinkynttä",
@@ -9560,6 +9585,7 @@
         "1-2 rkl (dijon)sinappia",
         "2 rkl tomaattipyreetä",
         "2 rkl vehnäjauhoja",
+        "n. 5 dl vettä",
         "1 pkt maustekurkkuja",
         "1 prk smetanaa",
         "1 ps salaattia",
@@ -9582,6 +9608,7 @@
         "0,5 tl mustapippuria",
         "2 tl kuivattua yrttisekoitusta",
         "1 dl pastan keitinvettä",
+        "n. 450-500 g pastaa",
         "1 ruukku salaattia",
         "1 rs kirsikkatomaatteja",
         "1 rkl öljyä",
@@ -9589,6 +9616,7 @@
         "ripaus mustapippuria"
     ],
     [
+        "n. 1 kg perunoita",
         "0,5 tl suolaa",
         "2-3 rkl voita",
         "1 prk kermaviiliä",
@@ -9676,6 +9704,7 @@
         "1 tl (savu)paprikajauhetta",
         "1 prk oliiveja",
         "1 rs rucolaa",
+        "n. 350-400 g pastaa",
         "1 rkl öljyä",
         "0,5 sitruunan mehu",
         "0,5 ruukku minttua"
@@ -9684,6 +9713,7 @@
         "1 sipuli",
         "2 valkosipulinkynttä",
         "1 parsakaali",
+        "n. 350-400 g pastaa + 1-1,5 dl pastan keitinvettä",
         "1 rkl öljyä",
         "1 tl suolaa",
         "0,5 tl mustapippuria",
@@ -9718,7 +9748,8 @@
         "0,5 tl mustapippuria",
         "ripaus chilijauhetta tai cayennepippuria",
         "1-2 rkl valkoviinietikkaa",
-        "1 prk ruokakermaa + 1-2 dl vettä"
+        "1 prk ruokakermaa + 1-2 dl vettä",
+        "n. 350-400 g pastaa"
     ],
     [
         "1 punasipuli",
@@ -9731,6 +9762,7 @@
         "1 tl kuivattua yrttisekoitusta",
         "1 prk ruokakermaa + 1-2 dl pastan keitinvettä",
         "0,5 sitruunan kuori + mehu",
+        "n. 350-400 g pastaa",
         "1 rkl öljyä",
         "2-3 porkkanaa"
     ],
@@ -9741,6 +9773,7 @@
         "1-2 valkosipulinkynttä",
         "2 rkl öljyä",
         "1 prk kookosmaitoa",
+        "n. 8-10 dl vettä",
         "1-1,5 tl suolaa",
         "0,5 tl mustapippuria",
         "1 tl juustokuminaa",
@@ -9753,12 +9786,14 @@
         "ripaus suolaa"
     ],
     [
+        "n. 1 kg perunoita",
         "1 tl suolaa",
         "2-3 porkkanaa",
         "1 sipuli",
         "1-2 valkosipulinkynttä",
         "0,5 chili",
         "1 rkl öljyä",
+        "n. 2 dl soijarouhetta",
         "3-5 rkl tomaattipyreetä",
         "5-6 dl vettä",
         "1 kasvisfondi",
@@ -9817,6 +9852,7 @@
         "1 rkl öljyä"
     ],
     [
+        "n. 9-10 dl vettä",
         "1 punasipuli",
         "1-2 valkosipulinkynttä",
         "1 pala inkivääriä (n. 1-2 cm)",
@@ -9834,6 +9870,7 @@
         "0,5 sitruunan mehu"
     ],
     [
+        "n. 0,7 kg perunoita",
         "1 sipuli",
         "1-2 valkosipulinkynttä",
         "1 fenkoli",
@@ -9867,6 +9904,7 @@
         "0,5 tl chilijauhetta",
         "ripaus sokeria",
         "1-2 rkl valko-tai punaviinietikkaa",
+        "n. 350-400 g spagettia",
         "1 ps parmesanjuustoa"
     ],
     [
@@ -9901,6 +9939,7 @@
         "1-2 tl juustokuminaa",
         "0,5 tl paprikajauhetta",
         "1 rkl öljyä",
+        "n. 12 dl vettä",
         "1-2 valkosipulinkynttä",
         "1 pala inkivääriä (2 cm)",
         "0,5 chili",
@@ -9927,6 +9966,7 @@
         "1-2 rkl valkoviinietikkaa",
         "1 prk tomaattipyreetä (2 rkl)",
         "1 tlk tomaattimurskaa + 2-3 dl vettä",
+        "n. 8-9 kpl lasagnelevyä",
         "1 pkt maustamatonta tuorejuustoa",
         "1 ps pastajuustoa",
         "1 rs rucolaa",
@@ -9967,6 +10007,7 @@
         "2 rkl valkoviinietikkaa",
         "1 tlk tomaattimurskaa + 2 dl vettä",
         "0,5 ruukku lehtipersiljaa",
+        "n. 1 kg perunoita",
         "0,5 tl suolaa",
         "2-3 rkl voita",
         "1 kurkku",
@@ -9988,6 +10029,7 @@
         "2 rkl valkoviinietikkaa",
         "1 prk ruokakermaa + 1-2 dl vettä",
         "0,5 ruukku lehtipersiljaa",
+        "n. 350-400 g pastaa",
         "1 rs tomaatteja",
         "1 rkl öljyä",
         "1 tl valkoviinietikkaa",
@@ -10024,6 +10066,7 @@
         "1 pkt broilerin paistileikkeitä",
         "ripaus suolaa ja mustapippuria",
         "0,5 tl paprikajauhetta",
+        "n. 5 dl vettä",
         "1 prk ruokakermaa",
         "1 kanafondi",
         "2 rkl valkoviinietikkaa",
@@ -10172,7 +10215,9 @@
         "0,5 rs basilikaa"
     ],
     [
+        "n.1 kg perunoita",
         "1 kukkakaali",
+        "2-3 porkkanaa",
         "2 rkl öljyä",
         "1-1,5 tl suolaa",
         "0,5 tl mustapippuria",
@@ -10197,6 +10242,7 @@
         "1-2 valkosipulinkynttä",
         "1 pala punakaalia",
         "2 rkl öljyä",
+        "n. 10 dl vettä",
         "1 kasvisfondi",
         "2-3 rkl valkoviinietikkaa",
         "1-1,5 tl suola",
@@ -10221,6 +10267,7 @@
         "1-2 rkl valkoviinietikkaa",
         "1-2 rkl tomaattipyreetä (ei pakollinen)",
         "1 tlk tomaattimurskaa",
+        "n. 8 dl vettä",
         "0,5 ruukku lehtipersiljaa",
         "350- 400 g pastaa",
         "1 ps pastajuustoa"
@@ -10272,7 +10319,8 @@
         "0,5-1 tl suolaa",
         "ripaus mustapippuria",
         "1 prk ruokakermaa + n. 1 dl vettä",
-        "0,5 sitruunan kuori + mehu"
+        "0,5 sitruunan kuori + mehu",
+        "n. 350-400 g pastaa"
     ],
     [
         "1 kg perunoita",
@@ -10322,6 +10370,7 @@
         "1 prk ruokakermaa + tilkka vettä",
         "0,5 ruukkua persiljaa",
         "2 rkl sitruunan mehua",
+        "n. 350-400 g pastaa",
         "0,5 tl suolaa"
     ],
     [
@@ -10330,6 +10379,7 @@
         "1 prk punaisia linssejä",
         "1 rkl öljyä",
         "2 rkl tomaattipyreetä",
+        "n. 9-10 dl vettä",
         "1 kasvisfondi",
         "1 tlk kuorittuja tomaatteja",
         "1 tl suolaa",
@@ -10356,6 +10406,7 @@
         "1 prk ruokakermaa + 1 dl vettä",
         "1-2 rkl sinappia",
         "1-2 rkl soijakastiketta",
+        "n. 1 kg perunoita",
         "1 parsakaali",
         "1-2 rkl voita",
         "ripaus suolaa ja mustapippuria"
@@ -10378,12 +10429,14 @@
         "1-2 rkl valkoviinietikkaa",
         "2 rkl oliiviöljyä",
         "0,5 ruukku korianteria",
+        "n. 350-400 g täysjyväspagettia",
         "1 ps pastajuustoa",
         "1 rs rucolaa",
         "tilkka oliiviöljyä",
         "ripaus mustapippuria"
     ],
     [
+        "n. 1 kg bataattia",
         "1 sipuli",
         "1-2 valkosipulinkynttä",
         "1 pala inkivääriä (2-3 cm)",
@@ -10406,6 +10459,7 @@
         "2-3 rkl soijakastiketta",
         "1 rkl sinappia",
         "ripaus mustapippuria",
+        "n. 1 kg perunoita",
         "0,5 kg porkkanoita",
         "1 tl suolaa",
         "1 prk puolukkahilloa"
@@ -10423,6 +10477,7 @@
         "1 prk ruokakermaa + tilkka vettä",
         "0,5 ruukku minttua",
         "0,5 sitruunan mehu",
+        "n. 350-400 g pastaa + tilkka keitinvettä",
         "1 pala cheddar-juustoa"
     ],
     [
@@ -10457,19 +10512,22 @@
         "ripaus mustapippuria",
         "2 tl kuivattua yrttisekoitusta",
         "2 rkl sitruunan mehua",
-        "1-2 rkl oliiviöljyä"
+        "1-2 rkl oliiviöljyä",
+        "n. 350-400 g"
     ],
     [
         "1 rs herkkusieniä",
         "1 rkl öljyä ja voita",
         "ripaus suolaa",
         "ripaus kuivattua timjamia",
+        "n. 8,5 dl vettä",
         "1 kasvisfondi",
         "1 tl suolaa",
         "1 sipuli",
         "1-2 valkosipulinkynttä",
         "2 rkl öljyä",
         "2 rkl voita",
+        "n. 4 dl spelttisuurimoita",
         "1-2 rkl valkoviinietikkaa",
         "ripaus suolaa",
         "1 prk ruokakermaa + tilkka vettä",
@@ -10512,6 +10570,7 @@
         "1 tl chilijauhetta",
         "2 rkl valkoviinietikkaa",
         "1 tlk tomaattimurskaa + n. 2 dl vettä",
+        "n. 1 kg perunoita",
         "2 rkl oliiviöljyä tai voita",
         "1 tl suolaa",
         "1 ruukku salaattia",
@@ -10608,6 +10667,7 @@
         "5-6 dl vettä",
         "1 pkt maustekurkkuja",
         "1 prk smetanaa",
+        "n. 1 kg uusia perunoita",
         "2-3 rkl voita",
         "0,5-1 tl suolaa",
         "1 ruukku salaattia",
@@ -10692,6 +10752,7 @@
         "1 ps Ruokaboksi basmatiriisiä"
     ],
     [
+        "n. 3 dl ateriajyviä",
         "1 rs kirsikkatomaatteja",
         "1 kesäsipuli",
         "0,5 limen mehu",
@@ -10710,6 +10771,7 @@
         "1 ps siemensekoitusta"
     ],
     [
+        "n. 1 kg bataattia",
         "0,5 tl suolaa",
         "0,5 tl mustapippuria",
         "2 rkl öljyä",
@@ -10744,6 +10806,7 @@
         "1 prk tomaattipyreetä (2 rkl)",
         "1-2 rkl valkoviinietikkaa",
         "1 prk ruokakermaa + 1 dl vettä",
+        "n. 350-400 g pastaa",
         "1 ps pastajuustoa"
     ],
     [
@@ -10780,9 +10843,11 @@
         "ripaus mustapippuria",
         "1-2 tl kuivattua yrttisekoitusta",
         "noin 2 dl pastan keitinvettä",
-        "1 tl kuorta + 0,5 sitruunan mehu"
+        "1 tl kuorta + 0,5 sitruunan mehu",
+        "n. 350-400 g pastaa"
     ],
     [
+        "n. 3 dl kaurajyviä",
         "0,5 tl suolaa",
         "1 rkl öljyä",
         "0,5 ruukku lehtipersiljaa",
@@ -10891,6 +10956,7 @@
         "0,5 tl suolaa",
         "ripaus mustapippuria",
         "1 rkl sinappia",
+        "n. 2 dl vehnäjauhoja",
         "1,5 -2 tl suolaa",
         "1-2 pkt muikkuja",
         "3-4 rkl voita ja 1 rkl öljyä paistamiseen",
@@ -10924,6 +10990,7 @@
         "0,5 sitruunan mehu",
         "1 pkt fetajuustoa",
         "0,5 ruukku minttua",
+        "n. 350-400 g pastaa",
         "1 ps siemensekoitusta"
     ],
     [
@@ -10981,6 +11048,8 @@
         "1-2 tl kuivattua yrttisekoitusta",
         "2 rkl valkoviinietikkaa",
         "1 tlk tomaattimurskaa + 2 dl vettä",
+        "n. 8 dl vettä",
+        "n. 4 dl bulguria",
         "0,5 tl suolaa",
         "1 rkl oliiviöljyä"
     ],
@@ -11033,6 +11102,7 @@
         "1 tl kuivattua yrttisekoitusta",
         "1 prk kipparijuusto-kermaa + n. 1 dl vettä",
         "0,5 sitruunan mehu",
+        "n. 350-400 g pastaa",
         "1 ruukku salaattia",
         "1 rs kirsikkatomaatteja",
         "1 rkl öljyä",
@@ -11064,6 +11134,7 @@
         "1 tl mustapippuria",
         "1 prk ruokakermaa + tilkka vettä",
         "3-4 kananmunaa",
+        "n. 350-400 g pastaa",
         "1 ps parmesanjuustoa",
         "1 rkl öljyä",
         "1 rkl valkoviinietikkaa",
@@ -11108,6 +11179,7 @@
     ],
     [
         "1 rkl öljyä vuoan voiteluun",
+        "n. 1 kg uuden sadon perunoita",
         "1 fenkoli",
         "1-1,5 tl suolaa",
         "0,5 tl mustapippuria",
@@ -11198,6 +11270,7 @@
         "1 prk kaurakermaa + 1 dl pastan keitinvettä",
         "0,5 ruukku minttua",
         "0,5 sitruunan mehu",
+        "n. 350- 400 g pastaa",
         "0,5 prk seesaminsiemeniä"
     ],
     [
@@ -11259,7 +11332,8 @@
         "0,5 tl mustapippuria",
         "1-2 tl kuivattua yrttisekoitusta",
         "0,5 ruukku korianteria",
-        "0,5 sitruunan mehua"
+        "0,5 sitruunan mehua",
+        "n. 350-400 g pastaa"
     ],
     [
         "1-2 valkosipulinkynttä",
@@ -11291,6 +11365,7 @@
         "1 tl kuivattua yrttisekoitusta",
         "2 rkl valkoviinietikkaa",
         "1 prk salsaa (pieni)",
+        "n. 400 g maissilastuja",
         "1 ps juustoraastetta",
         "1 ruukku salaattia",
         "1 rs kirsikkatomaatteja",
@@ -11311,6 +11386,7 @@
         "1-2 tl kuivattua yrttisekoitusta",
         "1 prk kaurakermaa + tilkka vettä",
         "0,5 sitruunan mehu",
+        "n. 350-400 g pastaa",
         "1 ps siemeniä"
     ],
     [
@@ -11415,6 +11491,7 @@
         "0,5-1 tl curryjauhetta",
         "0,5 sitruunan kuori ja mehu",
         "1 prk kaurakerma + 1-2 dl pastan keitinvettä",
+        "n. 350-400 g pastaa",
         "0,5 ruukku minttua",
         "1 ps siemensekoitusta"
     ],
@@ -11500,6 +11577,8 @@
         "1 ps cashew pähkinöitä"
     ],
     [
+        "n. 4 dl kiehuvaa vettä",
+        "n. 4 dl couscousia",
         "0,5 tl suolaa",
         "1 rkl öljyä",
         "0,5 sitruunan kuori ja mehu",
@@ -11522,6 +11601,7 @@
         "1-2 valkosipulinkynttä",
         "1 fenkoli",
         "1 paprika",
+        "n. 1 kg bataattia",
         "1-1,5 tl suolaa",
         "ripaus mustapippuria",
         "1 tl kuivattua timjamia",
@@ -11552,9 +11632,11 @@
         "1 prk ruokakermaa + 1 dl vettä",
         "0,5 ruukku korianteria",
         "0,5 sitruunan mehu",
+        "n. 350-400 g pastaa",
         "1 ps parmesanjuustoa"
     ],
     [
+        "n. 800 g kesäkurpitsoja",
         "1 punasipuli",
         "1-2 valkosipulinkynttä",
         "1 paprika",
@@ -11591,6 +11673,7 @@
         "ripaus suolaa ja mustapippuria"
     ],
     [
+        "n. 1 kg perunoita",
         "1 tl suolaa",
         "2-3 porkkanaa",
         "1 paprika",
@@ -11616,6 +11699,7 @@
         "ripaus mustapippuria",
         "1 prk ruokakermaa + 1-2 dl vettä",
         "0,5 sitruunan mehu",
+        "n. 400 g pastaa",
         "1 kurkku",
         "2 omenaa",
         "1 rkl valkoviinietikkaa",
@@ -11743,6 +11827,7 @@
         "0,5 ruukku korianteria"
     ],
     [
+        "n. 1 kg perunoita",
         "1-2 rkl rypsi- tai oliiviöljyä",
         "1 tl suolaa",
         "0,5 tl mustapippuria",
@@ -11757,11 +11842,13 @@
         "1 pkt kypsää porsaan kassleria",
         "1 ps Bbq-kastiketta",
         "ripaus suolaa ja mustapippuria",
+        "n. 1,5 dl majoneesia",
         "ripaus (savu)paprikajauhetta",
         "ripaus mustapippuria",
         "1 ps hampurilaissämpylöitä"
     ],
     [
+        "n. 1 kg perunoita",
         "1 tl suolaa",
         "1-2 rkl voita tai oliiviöljyä",
         "1 tl sitruunan kuorta + 0,5 sitruunan mehu",
@@ -11802,10 +11889,12 @@
         "1 ps jälkiuuni neppareita"
     ],
     [
+        "n. 1 kg perunoita",
         "2 rkl öljyä",
         "1 tl suolaa",
         "ripaus mustapippuria",
         "1 tl kuivattua timjamia",
+        "n. 300 g pala kaalia",
         "2 porkkanaa",
         "0,5 tl suolaa",
         "ripaus mustapippuria",
@@ -11828,7 +11917,8 @@
         "ripaus mustapippuria",
         "1-2 tl kuivattua yrttisekoitusta",
         "0,5 sitruunan kuori + 0,5 sitruunan mehu",
-        "noin 2 dl pastan keitinvettä"
+        "noin 2 dl pastan keitinvettä",
+        "n. 350-400 g pastaa"
     ],
     [
         "2 kananmunaa",
@@ -11846,6 +11936,7 @@
         "ripaus suolaa ja mustapippuria",
         "1 rkl valkoviinietikkaa",
         "8 dl vettä",
+        "n. 4 dl bulguria",
         "1 pieni pala purjon vartta",
         "0,5 sitruunan kuori + mehu",
         "ripaus suolaa ja 2 rkl oliiviöljyä",
@@ -11884,6 +11975,7 @@
         "1 tl curryjauhetta",
         "1 prk fraiche kermaa + 1-2 dl pastan keitinvettä",
         "0,5 sitruunan mehu",
+        "n. 350-400 g pastaa",
         "1 ps parmesanraastetta"
     ],
     [
@@ -11898,6 +11990,7 @@
         "1 kasvisfondi",
         "1-2 tl curryjauhetta",
         "0,5 tl chilijauhetta",
+        "n. 8-9 dl vettä",
         "1 rkl valkoviinietikka",
         "1 tlk kookosmaitoa",
         "0,5 sitruunan mehu",
@@ -11942,7 +12035,8 @@
         "ripaus mustapippuria",
         "1-2 tl curryjauhetta",
         "1 prk kaurakermaa + n. 1 dl vettä",
-        "0,5 sitruunan mehu"
+        "0,5 sitruunan mehu",
+        "n. 350-400 g pastaa"
     ],
     [
         "n. 12-14 dl vettä",
@@ -11968,9 +12062,11 @@
         "1 prk ruokakermaa + 2 dl vettä",
         "1 tl sitruunan raastettua kuorta + 2 rkl sitruunan mehua",
         "0,5 rs basilikaa",
+        "n. 350- 400 g pastaa",
         "3-4 porkkanaa tikuiksi leikattuna"
     ],
     [
+        "n. 1 kg perunoita",
         "1 tl suolaa",
         "2 rkl voita",
         "1 sipuli",
@@ -12114,7 +12210,8 @@
         "1 tl kuivattua yrttisekoitusta",
         "1 prk fraiche kermaa + 1 dl vettä",
         "0,5 sitruuna",
-        "2 tlk tonnikalaa"
+        "2 tlk tonnikalaa",
+        "n. 350- 400 g pastaa"
     ],
     [
         "1 punasipuli",
@@ -12179,7 +12276,8 @@
         "2 tl kuivattua yrttisekoitusta",
         "1 rkl valkoviinietikkaa",
         "1 prk fraiche kermaa + n. 2 dl vettä",
-        "0,5 ruukku lehtipersiljaa"
+        "0,5 ruukku lehtipersiljaa",
+        "n. 350- 400 g pastaa"
     ],
     [
         "1 pkt porsaan ulkofileetä",
@@ -12191,6 +12289,7 @@
         "1 dl vettä",
         "1 rkl sinappia",
         "1-2 rkl soijakastiketta",
+        "n. 1 kg perunoita",
         "1 parsakaali",
         "0,5 ruukku lehtipersiljaa",
         "1-2 rkl voita",
@@ -12228,7 +12327,8 @@
         "0,5 tl kuivattua timjamia",
         "1 prk ruokakermaa",
         "0,5 ruukku minttua",
-        "0,5 sitruunan mehu"
+        "0,5 sitruunan mehu",
+        "n. 350-400 g pastaa"
     ],
     [
         "3 kananmunaa",
@@ -12247,6 +12347,7 @@
         "ripaus mustapippuria",
         "0,5 rkl valkoviinietikkaa",
         "tilkka oliiviöljyä",
+        "n. 3 dl bulguria",
         "0,5 sitruunan kuori raastettuna",
         "0,5 sitruunan mehu",
         "ripaus suolaa",
@@ -12302,6 +12403,7 @@
         "1 prk kaurakermaa"
     ],
     [
+        "n. 800 g perunoita",
         "3 porkkanaa",
         "1 punasipuli",
         "1 paprika",
@@ -12350,6 +12452,7 @@
         "1-2 tl kuivattua yrttisekoitusta",
         "1-2 rkl valkoviinietikkaa",
         "1 tlk tomaattimurskaa + n. 1-2 dl vettä",
+        "n. 800 g perunoita",
         "2 rkl oliiviöljyä tai voita",
         "1 tl suolaa",
         "1-2 tomaattia",
@@ -12369,6 +12472,7 @@
         "1 prk tomaattipyreetä (2 rkl)",
         "1 prk tomaattimurskaa + n. 2 dl vettä",
         "2 rkl valkoviinietikkaa",
+        "n. 350- 400 g täysjyväspagettia",
         "0,5 ruukku lehtipersiljaa",
         "1 kurkku",
         "1 ruukku salaattia",
@@ -12376,6 +12480,7 @@
         "ripaus mustapippuria"
     ],
     [
+        "n. 1 kg perunoita",
         "1 tl suolaa",
         "0,5 tl mustapippuria",
         "1 tl kuivattua timjamia",
@@ -12408,7 +12513,8 @@
         "ripaus curryjauhetta",
         "1 tl kuivattua yrttisekoitusta",
         "1 prk kipparijuusto-kermaa + n. 1 dl vettä",
-        "0,5 sitruunan mehu"
+        "0,5 sitruunan mehu",
+        "n. 350-400 g pastaa"
     ],
     [
         "1 sipuli",
@@ -12486,11 +12592,11 @@
         "1 rkl valkoviinietikkaa",
         "1 rkl (dijon)sinappia",
         "1 prk ruokakermaa + 1 dl vettä",
+        "n. 400 g pastaa",
         "0,5-1 limen mehu"
     ],
     [
         "1 pkt kirjolohta",
-        ":",
         "1 valkosipulinkynsi",
         "2 rkl oliiviöljyä",
         "1 tl suolaa",
@@ -12499,6 +12605,7 @@
         "ripaus chilijauhetta",
         "1 veriappelsiinin kuori raasteena",
         "2 veriappelsiinia",
+        "n. 4 dl couscousia",
         "0,5 ruukku persiljaa",
         "tilkka oliiviöljyä",
         "1 prk jogurttia",
@@ -12512,6 +12619,7 @@
     ],
     [
         "n. 8-10 dl vettä",
+        "n. 1 kg perunoita",
         "3-4 porkkanaa",
         "1 lanttu pala",
         "1 punasipuli",
@@ -12528,6 +12636,7 @@
         "0,5 ruukku persiljaa"
     ],
     [
+        "n. 800 g perunoita",
         "2-3 porkkanaa",
         "1 kesäkurpitsa",
         "1 punasipuli",
@@ -12550,11 +12659,13 @@
         "1 rkl öljyä ja voita",
         "ripaus suolaa",
         "ripaus kuivattua timjamia",
+        "n. 8 dl vettä",
         "1 kasvisfondi",
         "1 sipuli",
         "1-2 valkosipulinkynttä",
         "2 rkl öljyä",
         "2 rkl voita",
+        "n. 4 dl spelttisuurimoita",
         "1-2 rkl valkoviinietikkaa",
         "1 tl suolaa",
         "1 prk ruokakermaa",
@@ -12565,6 +12676,7 @@
         "0,5 ruukku lehtipersiljaa"
     ],
     [
+        "n. 700 g perunoita",
         "1 sipuli",
         "1-2 valkosipulinkynttä",
         "1 fenkoli",
@@ -12627,6 +12739,7 @@
         "2-3 valkosipulinkynttä",
         "2 rkl öljyä",
         "1 tlk valkoisia papuja",
+        "n. 8-9 dl vettä",
         "1 kasvisfondi",
         "1-1,5 tl suolaa",
         "0,5 tl mustapippuria",
@@ -12655,6 +12768,7 @@
         "0,5 -1 tl suolaa",
         "ripaus mustapippuria",
         "1 rkl valkoviinietikkaa",
+        "n. 3 dl bulguria",
         "0,5 ruukku lehtipersiljaa",
         "1 rkl oliiviöljyä",
         "ripaus suolaa",
@@ -12670,6 +12784,7 @@
         "1-2 valkosipulinkynttä",
         "1 pala punakaalia",
         "2 rkl öljyä",
+        "n. 10 dl vettä",
         "1 lihafondia",
         "2-3 rkl valkoviinietikkaa",
         "1 tl suola",
@@ -12696,7 +12811,8 @@
         "1-2 rkl valkoviinietikkaa",
         "1 prk kaurakermaa + 1 dl vettä",
         "0,5 ruukku lehtipersiljaa",
-        "0,5 sitruunan mehu"
+        "0,5 sitruunan mehu",
+        "n. 350-400 g pastaa"
     ],
     [
         "1 sipuli",
@@ -12772,6 +12888,8 @@
         "1 ps juustoraastetta"
     ],
     [
+        "n. 800 g perunoita",
+        "n. 400 g porkkanoita",
         "1 prk maitoa + tarvittaessa perunoiden keitinvettä",
         "2-3 rkl voita",
         "1 tl suolaa",
@@ -12798,6 +12916,7 @@
         "1 rkl valkoviinietikkaa",
         "1 tlk tomaattipyreetä (n. 2 rkl)",
         "1 tlk tomaattimurskaa + 2-3 dl vettä",
+        "n. 8-10 kpl lasagnelevyä",
         "1 pkt maustamatonta tuorejuustoa",
         "1 ps parmesanraastetta",
         "1 ruukku salaattia",
@@ -12806,6 +12925,7 @@
         "ripaus suolaa"
     ],
     [
+        "n. 800 g perunoita",
         "1 tl suolaa",
         "1 sipuli",
         "1-2 valkosipulinkynttä",
@@ -12861,6 +12981,7 @@
         "1 tl juustokuminaa",
         "1 tl kuivattua yrttisekoitusta",
         "1 tlk tomaattimurskaa + 1-2 dl vettä",
+        "n. 800 g perunoita",
         "1 tl suolaa",
         "1 ruukku salaattia",
         "2-3 tomaattia",
@@ -12881,7 +13002,8 @@
         "ripaus mustapippuria",
         "1-2 tl curryjauhetta",
         "1 prk ruokakermaa + n. 1 dl vettä",
-        "0,5 sitruunan mehu"
+        "0,5 sitruunan mehu",
+        "n. 350-400 g pastaa"
     ],
     [
         "n. 800 g perunoita",
@@ -12892,6 +13014,7 @@
         "1-1,5 tl suolaa",
         "ripaus mustapippuria",
         "1-2 tl curryjauhetta",
+        "n. 8-9 dl vettä",
         "1 tlk kookosmaitoa",
         "1 kanafondi",
         "1 parsakaali",
@@ -12949,6 +13072,7 @@
         "ripaus (savu)paprikajauhetta",
         "2 rkl oliiviöljyä",
         "2 pkt chorizoja",
+        "n. 3,5 dl couscousia",
         "1 limen mehua",
         "ripaus suolaa",
         "1 tl curryjauhetta",
@@ -12957,6 +13081,7 @@
     [
         "2 pkt falafeleja",
         "2 rkl öljyä",
+        "n. 1 kg kukkakaalia",
         "3 porkkanaa",
         "2 tl kanelia",
         "ripaus chilijauhetta tai cayennepippuria",
@@ -12984,6 +13109,7 @@
         "1 kanafondi",
         "1 prk kookosmaitoa + 1 dl vettä",
         "1 ps Ruokaboksi basmatiriisiä",
+        "n. 350 g porkkanoita",
         "ripaus suolaa ja sokeria",
         "0,5 sitruunan mehu"
     ],
@@ -13045,9 +13171,11 @@
         "1-2 dl vettä",
         "1 tlk kookosmaitoa",
         "1 tlk kikherneitä",
-        "0,5 sitruunan mehu"
+        "0,5 sitruunan mehu",
+        "n. 3 dl kvinoaa"
     ],
     [
+        "n. 1 kg bataattia",
         "2 rkl öljyä",
         "1 tl suolaa",
         "0,5 tl mustapippuria",
@@ -13103,6 +13231,7 @@
         "1 tl suolaa",
         "1 tl kuivattua yrttisekoitusta",
         "ripaus mustapippuria",
+        "n. 1 kg perunoita",
         "1 ruukku salaattia",
         "1 kurkku",
         "tilkka oliiviöljyä",
@@ -13145,6 +13274,7 @@
         "1 lihafondi",
         "1-2 rkl valkoviinietikka",
         "0,5 ruukku lehtipersiljaa",
+        "n. 1 kg perunoita",
         "2-3 rkl voita",
         "2-2,5 dl maitoa",
         "1 tl suolaa",
@@ -13169,6 +13299,7 @@
     ],
     [
         "2 pkt jauhelihakepakkoja",
+        "n. 800 g perunoita",
         "1 ps suippopaprikoita",
         "1 punasipuli",
         "1 tl suolaa",
@@ -13195,6 +13326,7 @@
         "1 prk ruokakermaa",
         "1 dl pastan keitinvettä",
         "0,5 ruukku lehtipersiljaa",
+        "n. 350-400 g pastaa",
         "1 ps parmesanraastetta"
     ],
     [
@@ -13244,7 +13376,8 @@
         "1-1,5 tl suolaa",
         "ripaus mustapippuria",
         "1 tl kuivattua yrttisekoitusta",
-        "0,5 sitruunan mehu"
+        "0,5 sitruunan mehu",
+        "n. 350-400 g pastaa"
     ],
     [
         "1 sipuli",
@@ -13262,6 +13395,7 @@
         "1 pkt halloumijuustoa",
         "2 rkl öljyä",
         "2 rkl valkoviinietikkaa",
+        "n. 3 dl bulguria",
         "0,5 ruukku korianteria"
     ],
     [
@@ -13272,6 +13406,8 @@
         "0,5 sitruunan mehu",
         "ripaus mustapippuria",
         "tilkka oliiviöljyä",
+        "n. 800 g perunoita",
+        "n. 250 g porkkanoita",
         "2,5 dl maitoa + tilkka vettä tarvittaessa",
         "2 rkl voita",
         "ripaus suolaa",
@@ -13285,6 +13421,7 @@
         "2 porkkanaa",
         "0,5 purjo",
         "1 paprika",
+        "n. 9 dl vettä",
         "1 kanafondi",
         "2 laakerinlehteä",
         "1- 1,5 tl suolaa",
@@ -13308,6 +13445,7 @@
         "ripaus mustapippuria",
         "1-2 tl kuivattua yrttisekoitusta",
         "1 rkl valkoviinietikkaa",
+        "n. 350-400 g pastaa",
         "0,5 ruukku lehtipersiljaa"
     ],
     [
@@ -13361,6 +13499,7 @@
         "1 limen mehu"
     ],
     [
+        "n. 800 g perunoita",
         "2 rkl oliiviöljyä",
         "1 tl suola",
         "ripaus mustapippuria",
@@ -13398,6 +13537,7 @@
         "1 rkl öljyä",
         "2 rkl tomaattipyreetä",
         "2 tlk kuorittuja tomaatteja",
+        "n. 5 dl vettä",
         "1 kasvisfondi",
         "2 tl kuivattua yrttisekoitusta",
         "ripaus chilijauhetta",
@@ -13424,6 +13564,7 @@
         "1 rkl dijonsinappia",
         "2-3 rkl soijakastiketta",
         "1 tl valkoviinietikkaa",
+        "n. 1 kg perunoita",
         "2 rkl voita",
         "1 tl suolaa",
         "1,5 dl maitoa",
@@ -13440,9 +13581,11 @@
         "2 rkl valkoviinietikkaa",
         "ripaus suolaa ja mustapippuria",
         "ripaus sokeria",
+        "n. 1,5 dl vegaanimajoneesia",
         "ripaus (savu)paprikajauhetta",
         "ripaus mustapippuria",
         "0,5 chili",
+        "n. 800 g perunoita",
         "2 rkl oliiviöljyä",
         "1 tl kuivattua timjamia",
         "1 tl suolaa",
@@ -13462,6 +13605,7 @@
         "ripaus suolaa ja mustapippuria",
         "1 valkosipulinkynsi",
         "0,5 ruukkua minttua",
+        "n. 2,5 dl kvinoaa",
         "2 omenaa"
     ],
     [
@@ -13499,6 +13643,7 @@
         "1 ps hampurilaissämpylöitä"
     ],
     [
+        "n. 800 g perunoita",
         "1 ps paprikoita",
         "1 punasipuli",
         "2 rkl oliiviöljyä",
@@ -13601,6 +13746,7 @@
         "ripaus mustapippuria",
         "0,5-1 tl curryjauhetta",
         "1 prk ruokakermaa",
+        "n. 2 dl vettä",
         "1 ps Ruokaboksi basmatiriisiä",
         "2 appelsiinia",
         "1 ruukku salaattia",
@@ -13614,6 +13760,8 @@
         "0,5-1 chili",
         "2 paprikaa",
         "1 rkl öljyä",
+        "n. 0,75-1 dl soijakastiketta",
+        "n. 1,5 rkl sokeria",
         "0,5 sitruunan mehu",
         "0,5 ruukku korianteria",
         "1-2 rkl seesaminsiemeniä",
@@ -13657,11 +13805,13 @@
     [
         "1 pkt kirjolohta",
         "1-2 porkkanaa",
+        "n. 800 g perunoita",
         "1 sipuli",
         "1-2 valkosipulinkynsi",
         "1 pala inkivääriä (2 cm)",
         "1 rkl öljyä",
         "1 rkl tomaattipyreetä (ei pakollinen)",
+        "n. 7-8 dl vettä",
         "1-1,5 tl suolaa",
         "ripaus mustapippuria",
         "ripaus chilijauhetta",
@@ -13680,6 +13830,7 @@
         "0,5-1 dl vettä",
         "0,5-1 rkl (dijon)sinappia",
         "2 rkl soijakastiketta",
+        "n. 800 g perunoita",
         "2 porkkanaa",
         "1 pala kyssäkaalia",
         "1 tl suolaa",
@@ -13703,7 +13854,8 @@
         "ripaus sokeria",
         "1 rkl valkoviinietikkaa",
         "0,5 ruukkua persiljaa",
-        "1 ps parmesanraastetta"
+        "1 ps parmesanraastetta",
+        "n. 350-400 g pastaa"
     ],
     [
         "3-4 porkkanaa",
@@ -13717,6 +13869,7 @@
         "ripaus mustapippuria",
         "1 ps lehtikaalia",
         "1-2 rkl sitruunan mehua",
+        "n. 3,5 dl couscousta",
         "ripaus suolaa",
         "3,5 dl kiehuvaa vettä",
         "2 rkl oliiviöljyä",
@@ -13747,6 +13900,7 @@
         "1 tlk kookosmaitoa"
     ],
     [
+        "n. 1 kg perunoita",
         "1 ps suippopaprikoita",
         "1 rkl oliiviöljyä",
         "1 tl suolaa",
@@ -13853,6 +14007,7 @@
         "ripaus mustapippuria",
         "0,5 ruukku persiljaa",
         "0,5 sitruunan mehu ja kuori",
+        "n. 3 dl couscousta",
         "3,5 dl kiehuvaa vettä",
         "0,5 prk aurinkokuivattuja tomaatteja+öljyä",
         "ripaus suolaa",
@@ -13869,6 +14024,7 @@
         "1 rkl oliiviöljyä",
         "1,5 tl suolaa",
         "ripaus mustapippuria",
+        "n. 350-400 g pastaa",
         "1 ps parmesanraastetta"
     ],
     [
@@ -13905,7 +14061,8 @@
         "0,5 rasia basilikaa",
         "1 prk kaurakerma",
         "0,5 sitruunan mehu",
-        "1-2 dl pastan keitinvettä"
+        "1-2 dl pastan keitinvettä",
+        "n.350-400 g pastaa"
     ],
     [
         "2 porkkanaa",
@@ -13966,6 +14123,7 @@
         "3 rkl siirappia tai 1-2 rkl sokeria",
         "1,5-2 rkl valkoviinietikkaa",
         "1 prk ruokakermaa sekä 2 dl vettä",
+        "n. 2 dl ohrasuurimoita",
         "1,5 litraa vettä",
         "1 tl suolaa"
     ],
@@ -13977,6 +14135,7 @@
         "1-2 valkosipulinkynttä",
         "1 rkl öljyä",
         "1 kasvisfondi",
+        "n. 9-10 dl vettä",
         "1-1,5 tl suolaa",
         "ripaus mustapippuria",
         "2-3 laakerinlehteä",
@@ -14032,6 +14191,7 @@
         "ripaus mustapippuria",
         "0,5-1 tl kuivattua timjamia",
         "1 tl suolaa",
+        "n. 9 dl vettä",
         "1 kasvisfondi",
         "1 prk kaurakermaa",
         "1 ps siemensekoitusta",
@@ -14055,7 +14215,8 @@
         "ripaus chilijauhetta",
         "2 tl kuivattua yrttisekoitusta",
         "0,5 sitruunan mehu",
-        "0,5 ruukku lehtipersiljaa"
+        "0,5 ruukku lehtipersiljaa",
+        "n. 350-400 g pastaa"
     ],
     [
         "n. 800 g perunoita",
@@ -14094,6 +14255,7 @@
         "1 tl suolaa",
         "ripaus mustapippuria",
         "2 tl kuivattua basilikaa",
+        "n. 10 kpl lasagnelevyä",
         "1 pkt maustamatonta tuorejuustoa",
         "1 ps parmesanraastetta",
         "kurkku- ja porkkanatikkuja"
@@ -14108,6 +14270,8 @@
         "ripaus chilijauhetta",
         "1-1,5 tl tl suolaa",
         "1 paprika",
+        "n. 3 dl linssejä",
+        "n. 9 dl vettä",
         "1 kanafondi",
         "1-2 rkl tomaattipyreetä (ei pakollinen)",
         "1 pkt broilerin fileesuikaleita",
@@ -14167,8 +14331,10 @@
         "1 prk kaurakermaa",
         "1-2 dl vettä",
         "1 rkl valkoviinietikkaa",
+        "n. 0,5 tl suolaa",
         "ripaus mustapippuria",
         "0,5 tl curryjauhetta",
+        "n. 800 g perunoita",
         "1 ruukku salaattia",
         "1 rs kirsikkatomaatteja"
     ],
@@ -14187,6 +14353,7 @@
         "1 rkl (dijon)",
         "sinappia",
         "1 kanafondi",
+        "n. 7 dl vettä",
         "1 ps ruokaboksi basmatiriisiä",
         "1 prk fraiche-kerma"
     ],
@@ -14215,6 +14382,7 @@
         "ripaus curryjauhetta",
         "1 rkl valkoviinietikkaa",
         "1 prk ruokakermaa + 1-2 dl pastan keitinvettä",
+        "n. 350-400 g pastaa",
         "1 ps parmesanraastetta"
     ],
     [
@@ -14237,6 +14405,7 @@
     [
         "1 punasipuli",
         "3 porkkanaa",
+        "n. 800 g perunoita",
         "1-2 valkosipulinkynttä",
         "1 tl suolaa",
         "ripaus mustapippuria",
@@ -14265,6 +14434,8 @@
         "ripaus chilijauhetta/maun mukaan (ei pakollinen)",
         "2 tl kuivattua yrttisekoitusta",
         "1 prk paseerattua tomaattia",
+        "n. 2 dl pastan keitinvettä",
+        "n. 350-400 g pastaa",
         "0,5 -1 ps juustoraastetta",
         "0,5 ruukku persiljaa"
     ],
@@ -14279,6 +14450,7 @@
         "0,5 tl curryjauhetta",
         "0,5 sitruunan mehu",
         "1 prk ruokakermaa + 1 dl vettä",
+        "n. 350-400 g pastaa",
         "1 ps parmesanraastetta",
         "0,5 ruukkua lehtipersiljaa",
         "0,5 rs rucolaa"
@@ -14322,6 +14494,7 @@
         "ripaus chilijauhetta tai cayennepippuria",
         "ripaus mustapippuria",
         "2 rkl öljyä",
+        "n. 800 g perunoita",
         "1 punasipuli",
         "1 parsakaali",
         "1 tl kuivattua timjamia",
@@ -14338,6 +14511,7 @@
         "1 tl suolaa",
         "ripaus mustapippuria",
         "1 rkl öljyä + 1 rkl voita",
+        "n. 3 dl polentaa",
         "1 kasvisfondi",
         "0,5 sitruunan kuori ja mehu",
         "1 tl kuivattua yrttisekoitusta",
@@ -14359,6 +14533,7 @@
         "2 rkl oliiviöljyä",
         "1 tl kuivattua yrttisekoitusta",
         "ripaus suolaa",
+        "n. 800 g perunoita",
         "1 tl suolaa",
         "0,5-1 tl kuivattua timjamia",
         "2 rkl oliiviöljyä",
@@ -14388,6 +14563,7 @@
         "2 valkosipulinkynttä",
         "1 sipuli",
         "1 prk aurinkokuivattuja tomaatteja",
+        "n. 8,5 dl vettä",
         "1 kasvisfondi",
         "1 tl suolaa",
         "ripaus mustapippuria",
@@ -14469,6 +14645,7 @@
         "ripaus mustapippuria",
         "1 rkl valkoviinietikkaa",
         "1 kasvisfondi",
+        "n. 8-9 dl vettä",
         "1 prk kaurakermaa",
         "0,5 ps pähkinöitä",
         "1 rs jälkiuunilastuja"
@@ -14506,9 +14683,12 @@
         "2 laakerinlehteä",
         "ripaus kuivattua timjamia",
         "1 prk ruokakermaa",
+        "n. 2 dl vettä",
+        "n. 2,5-3 dl ohrasuurimoita",
         "1 kurkku"
     ],
     [
+        "n. 800 g perunoita",
         "3-4 porkkanaa",
         "1 punasipuli",
         "1 rkl rypsi- tai oliiviöljyä",
@@ -14533,8 +14713,10 @@
         "tilkka öljyä paistamiseen",
         "3-4 rkl soijaa",
         "1 rkl sokeria",
+        "n. 1 dl vettä",
         "0,5 ruukku lehtipersiljaa",
         "1 ps ruokaboksi jasminriisiä",
+        "n. 7 dl vettä",
         "1 tlk kookosmaitoa",
         "1 tl suolaa",
         "1 ruukku salaattia",
@@ -14552,6 +14734,7 @@
         "1 tl (savu)paprikajauhetta",
         "1 tl kuivattua yrttisekoitusta",
         "1 tl suolaa",
+        "n. 2,5 dl couscousia",
         "tilkka oliiviöljyä",
         "ripaus suolaa",
         "0,5 ruukku minttua",
@@ -14577,6 +14760,7 @@
         "öljyä paistamiseen",
         "0,5 ruukku korianteri",
         "2 rkl oliiviöljyä",
+        "n. 3 dl hirssiä",
         "0,5 sitruuna",
         "1 ruukku rucolaa"
     ],
@@ -14600,6 +14784,7 @@
         "0,5 sitruunan mehua"
     ],
     [
+        "n. 1 kg uuden sadon perunoita",
         "suolaa keitinveteen",
         "1 punasipuli",
         "0,5 rs tuoretta basilikaa",
@@ -14618,6 +14803,7 @@
         "1 pkt kanansiipiä",
         "1 pkt makkaroita",
         "1 ps suippopaprikoita",
+        "n. 3 dl bulguria",
         "1 tl curryjauhetta",
         "0,5-1 tl suolaa",
         "1 rkl oliiviöljyä",
@@ -14651,9 +14837,11 @@
         "1 kurkku",
         "tilkka oliiviöljyä",
         "ripaus mustapippuria",
+        "n. 400 g pastaa",
         "1 ps parmesanraastetta"
     ],
     [
+        "n. 1 kg perunoita",
         "öljyä",
         "1 tl suolaa",
         "ripaus mustapippuria",
@@ -14680,6 +14868,7 @@
         "tilkka rypsiöljyä",
         "1 tl sokeria",
         "ripaus suolaa",
+        "n. 3 dl AlproTM Greek Style -soijavalmistetta",
         "0,5 ruukkua minttua",
         "0,5 sitruunan mehu",
         "ripaus suolaa",
@@ -14750,6 +14939,7 @@
         "0,5-1 chili",
         "1 ps babypinaattia",
         "1 tlk kookosmaitoa",
+        "n. 6-7 dl vettä",
         "1 kasvisfondi",
         "ripaus suolaa",
         "1 pkt nuudeleita",
@@ -14771,6 +14961,7 @@
         "1 rkl oliiviöljyä"
     ],
     [
+        "n. 400 g pastaa",
         "1 sitruuna",
         "1 tl suolaa",
         "ripaus mustapippuria",
@@ -14784,6 +14975,7 @@
     ],
     [
         "1 pkt kirjolohta",
+        "n. 150 g tuorejuustoa",
         "0,5 ps mantelilastuja",
         "1 rkl korppujauhoja",
         "0,5 -1 tl suolaa",
@@ -14799,6 +14991,7 @@
         "ripaus suolaa"
     ],
     [
+        "n. 400-500g esikeitettyjä punajuuria",
         "1 pkt kikherneitä",
         "1 kesäsipulin valkoinen osa",
         "1 valkosipulin kynsi",
@@ -14807,6 +15000,7 @@
         "0,5 tl kuivattua timjamia",
         "1- 1,5 tl suolaa",
         "0,5 tl mustapippuria",
+        "n. 1 kg perunoita",
         "1-2 rkl voita",
         "1 tl suolaa",
         "tilkka perunoiden keitinvettä",
@@ -14847,7 +15041,8 @@
         "1 tl suolaa",
         "1 tl kuivattua yrttisekoitusta",
         "0,5 tl sokeria",
-        "1 tl mustapippuria"
+        "1 tl mustapippuria",
+        "n. 400 g pastaa"
     ],
     [
         "1 dl vettä tai maitoa",
@@ -14882,7 +15077,9 @@
         "1 1⁄2 tl suolaa",
         "ripaus mustapippuria",
         "1 tl kuivattua yrttisekoitusta",
+        "n. 1 1⁄2 dl pastan keitinvettä",
         "1 pkt fetajuusto",
+        "n. 400 g pastaa",
         "1 ps siemeniä",
         "1⁄2 ruukku persiljaa"
     ],
@@ -14958,6 +15155,7 @@
         "1 valkosipulinkynsi",
         "1 rkl öljyä",
         "1 tlk tomaattimurskaa",
+        "n. 4 dl vettä",
         "1 kasvisfondi",
         "1 tl suolaa",
         "0,5 tl mustapippuria",
@@ -14992,6 +15190,7 @@
         "50 g voita tai margariinia",
         "6 rkl vehnäjauhoja",
         "1 prk kaurajuomaa",
+        "n. 3-4 dl vettä",
         "1 rs pinaattia",
         "0,5 ps lehtikaalia",
         "1,5 tl suolaa",
@@ -15037,6 +15236,7 @@
         "öljyä paistamiseen",
         "1 ps lehtikaalia",
         "0,5 ruukku korianteria",
+        "n. 1 dl sweet chili -kastiketta",
         "1 limen mehu",
         "1 rkl soijakastiketta",
         "1 ps ruokaboksi jasminriisiä",
@@ -15070,6 +15270,8 @@
         "0,5 ruukku tilliä",
         "8-10 dl vettä",
         "1 kalafondi",
+        "n. 1 tl suolaa",
+        "n. 8 kokonaista maustepippuria",
         "1 prk ruokakermaa",
         "0,5 sitruunan mehu ja raastettu kuori"
     ],
@@ -15090,6 +15292,7 @@
         "1 rkl valkoviinietikkaa",
         "ripaus mustapippuria",
         "ripaus paprikajauhetta",
+        "n. 3 dl ateriajyviä",
         "1 rkl oliiviöljyä",
         "ripaus suolaa ja mustapippuria"
     ],
@@ -15123,8 +15326,10 @@
         "2 tl kuivattua yrttisekoitusta",
         "0,5 tl mustapippuria",
         "1 rkl punaviinietikkaa tai balsamiviinietikkaa",
+        "n. 7 dl vettä",
         "1 tlk tomaattimurskaa",
         "1 lihafondi",
+        "n. 400 g pastaa",
         "1 ps juustoraastetta",
         "1 kurkku",
         "1 ruukku rucolaa",
@@ -15158,6 +15363,7 @@
         "0,5-1 dl vettä",
         "1 rkl sinappia",
         "1 rkl soijakastiketta",
+        "n. 800 g perunoita",
         "1 parsakaali",
         "0,5 ruukku ruohosipulia",
         "1 rkl voita",
@@ -15177,7 +15383,8 @@
         "tilkka öljyä paistamiseen",
         "1 dl pastan keitinvettä",
         "0,5 ruukku lehtipersiljaa",
-        "1 pkt fetajuustoa"
+        "1 pkt fetajuustoa",
+        "n. 400 g pastaa"
     ],
     [
         "1 pkt broilerin paistileikkeitä",
@@ -15206,6 +15413,7 @@
     [
         "1 pkt naudan jauhelihaa",
         "0,5 tl suolaa",
+        "n. 300 g pala kaalia",
         "2 valkosipulinkynttä",
         "1 kesäsipuli",
         "1 paprika",
@@ -15279,6 +15487,7 @@
         "1 tl (savu)paprikajauhetta",
         "1 tl (dijon)sinappia",
         "hampurilaissämpylöitä",
+        "n. 1 kg perunoita",
         "2 rkl öljyä",
         "1 tl suolaa",
         "ripaus kuivattua timjamia"
@@ -15327,6 +15536,7 @@
         "2 rkl oliiviöljyä",
         "2-3 rkl tomaattipyreetä",
         "1 tlk tomaattimurskaa",
+        "n. 1-2 dl pastan keitinvettä",
         "2 tl kuivattua basilikaa",
         "1 tl suolaa",
         "1⁄2 tl mustapippuria",
@@ -15334,7 +15544,8 @@
         "ripaus sokeria",
         "1 rkl valkoviinietikkaa",
         "1⁄2 ruukku persiljaa",
-        "1 ps parmesanraastetta"
+        "1 ps parmesanraastetta",
+        "n. 400g pastaa"
     ],
     [
         "n. 300 g pala kaalia",
@@ -15362,6 +15573,7 @@
         "2 valkosipulinkynttä",
         "1 prk kaurakermaa",
         "1 rkl valkoviinietikkaa",
+        "n. 400 g täysjyväspagettia",
         "1⁄2 rs basilikaa"
     ],
     [
@@ -15378,6 +15590,7 @@
         "1⁄2 rkl valkoviinietikkaa",
         "1 prk paseerattua tomaattia",
         "2-3 dl pastan keitinvettä",
+        "n. 400 g täysjyväspagettia",
         "1 ps juustoraastetta",
         "1⁄2 ruukku persiljaa",
         "veriappelsiineja"
@@ -15385,6 +15598,7 @@
     [
         "1 tl curryä tai kurkumaa",
         "1⁄2 tl suolaa",
+        "n. 3 dl hirssiä",
         "0,5 limen mehu",
         "1 rkl oliiviöljyä",
         "1 ps babypinaattia",
@@ -15409,6 +15623,7 @@
         "4-5 porkkanaa",
         "1 pala lanttua",
         "1 punasipuli",
+        "n. 700 g perunoita",
         "1 tl kuivattua timjamia",
         "1 tl suolaa",
         "ripaus sokeria",
@@ -15418,7 +15633,8 @@
         "1⁄2 ruukku minttua",
         "1 valkosipulinkynsi",
         "ripaus suolaa ja mustapippuria",
-        "1 rkl hunajaa"
+        "1 rkl hunajaa",
+        "1⁄2 sitruunan mehu"
     ],
     [
         "2 pkt DelikauraaTM",
@@ -15440,6 +15656,7 @@
     [
         "1 pkt broilerin fileepaloja",
         "1 rkl rypsiöljyä",
+        "n. 700 g perunoita",
         "1 sipuli",
         "2-3 valkosipulinkynttä",
         "1 tlk ruokakermaa + 2-3 dl vettä",
@@ -15473,6 +15690,7 @@
         "2 dl turkkilaista jogurttia",
         "0,5 ps pähkinöitä",
         "n. 400 g pastaa",
+        "n. 1 dl pastan keitinvettä",
         "0,5 rs rucolaa"
     ],
     [
@@ -15483,6 +15701,7 @@
         "1 rkl voita ja tilkka öljyä",
         "1 kasvisfondi",
         "1 prk ruokakermaa",
+        "n. 8-10 dl vettä",
         "1 rkl valkoviinietikkaa",
         "1 tl suolaa",
         "ripaus mustapippuria",
@@ -15495,6 +15714,7 @@
         "1 tl suolaa",
         "ripaus mustapippuria",
         "tilkka oliiviöljyä",
+        "n. 700 g perunoita",
         "1 parsakaali",
         "4 tomaattia",
         "1-2 valkosipulinkynttä",
@@ -15524,7 +15744,8 @@
         "1⁄2 rkl valkoviinietikkaa",
         "1⁄2 limen mehu",
         "1 ps lehtikaalia",
-        "tilkka öljyä paistamiseen"
+        "tilkka öljyä paistamiseen",
+        "n. 3 dl riisiä"
     ],
     [
         "1 rs broilerin rintafileitä",
@@ -15534,6 +15755,7 @@
         "1 tl suolaa",
         "ripaus mustapippuria",
         "ripaus kuivattua timjamia",
+        "n. 800 perunoita",
         "2 rkl voita",
         "1⁄2 -1 ruukku ruohosipulia",
         "1 tl suolaa",
@@ -15612,6 +15834,7 @@
         "1 rs kirsikkatomaatteja",
         "1⁄2 chili",
         "2-4 kokonaista valkosipulinkynttä",
+        "n. 400 g pastaa",
         "1⁄2 tl mustapippuria",
         "1 pkt fetajuustoa",
         "1⁄2 ruukku persiljaa",
@@ -15636,6 +15859,7 @@
         "1⁄2 sitruunan mehu ja kuori",
         "ripaus suolaa ja mustapippuria",
         "1 tl hunajaa tai ripaus sokeria",
+        "n. 3 dl riisiä",
         "nektariineja"
     ],
     [
@@ -15686,7 +15910,8 @@
         "1 tl kuivattua basilikaa",
         "1 tl kuivattua timjamia",
         "1 tlk tomaattimurskaa",
-        "1 ps juustoraastetta"
+        "1 ps juustoraastetta",
+        "n. 3 dl riisiä"
     ],
     [
         "1 sipuli",
@@ -15709,6 +15934,7 @@
         "1 valkosipulinkynsi",
         "1⁄2 chili",
         "1-2 porkkanaa",
+        "n. 700 g perunoita",
         "1 tlk maissia",
         "n. 7 dl vettä",
         "1 tlk tomaattimurskaa",
@@ -15752,6 +15978,7 @@
         "1⁄2 tl suolaa",
         "1⁄2 tl mustapippuria",
         "1⁄2 sitruunan mehu",
+        "n. 400 g pastaa + 1 dl pastan keitinvettä",
         "1 ps siemensekoitus"
     ],
     [
@@ -15785,7 +16012,8 @@
         "2 tl kuivattua yrttisekoitusta",
         "1⁄2 tl sokeria",
         "1 tl mustapippuria",
-        "1 prk creme fraichea"
+        "1 prk creme fraichea",
+        "n. 400 g nauhapastaa"
     ],
     [
         "n. 800 g perunoita",
@@ -15806,6 +16034,7 @@
         "öljyä paistamiseen",
         "1 tl suolaa",
         "1⁄2 tl mustapippuria",
+        "n. 1 kg kukkakaalia",
         "1 prk ruokakermaa",
         "ripaus paprikajauhetta",
         "1 tl suolaa",
@@ -15845,7 +16074,8 @@
         "1 tl suolaa",
         "ripaus mustapippuria",
         "1 rkl voita ja tilkka öljyä paistamiseen",
-        "1 ps ruokaboksi jasminriisiä"
+        "1 ps ruokaboksi jasminriisiä",
+        "1 prk maissia"
     ],
     [
         "1 pkt maustamatonta tofua",
@@ -15863,7 +16093,8 @@
         "1⁄2 sitruunan kuori",
         "1⁄2 sitruunan mehu",
         "1 tlk kookosmaitoa",
-        "1⁄2 ruukku korianteria"
+        "1⁄2 ruukku korianteria",
+        "n. 400g putkipastaa"
     ],
     [
         "1 pkt karitsan jauhelihaa",
@@ -15904,6 +16135,7 @@
         "ripaus sokeria",
         "1 rkl valkoviinietikkaa",
         "1⁄2 ruukku persiljaa",
+        "n. 800 g perunoita",
         "2 rkl oliiviöljyä",
         "1 tl suolaa",
         "ripaus kuivattua timjamia"
@@ -15920,7 +16152,8 @@
         "1⁄2 tl mustapippuria",
         "ripaus kuivattua timjamia",
         "1⁄2 sitruuna",
-        "1 ps parmesaania"
+        "1 ps parmesaania",
+        "n. 400 g pastaa"
     ],
     [
         "1 pkt kylmäsavustettua kirjolohta",
@@ -15934,7 +16167,8 @@
         "ripaus mustapippuria",
         "1⁄2 sitruunan raastettu kuori",
         "1⁄2 sitruunan mehu",
-        "1⁄2 ruukku tilliä"
+        "1⁄2 ruukku tilliä",
+        "n. 400g pastaa"
     ],
     [
         "1 pkt naudan jauhelihaa",
@@ -15949,9 +16183,11 @@
         "ripaus chilijauhetta",
         "1 tl kuivattua yrttisekoitusta",
         "1 rkl valkoviinietikkaa",
-        "1 prk paseerattua tomaattia + tilkka vettä"
+        "1 prk paseerattua tomaattia + tilkka vettä",
+        "n. 3 dl ateriajyviä"
     ],
     [
+        "n. 1 kg bataattia",
         "1 rkl öljyä",
         "1 tl suolaa",
         "ripaus (savu) paprikajauhetta",
@@ -15962,6 +16198,7 @@
         "4 tomaattia",
         "1 ruukku salaattia",
         "1-2 porkkanaa",
+        "n. 1 1⁄2 dl majoneesia",
         "1 rkl valkoviinietikkaa",
         "1⁄2 rkl sinappia",
         "1 tl curryjauhetta",
@@ -15981,6 +16218,7 @@
         "1 rkl valkoviinietikkaa",
         "1 prk paseerattua tomaattia + n. 1 dl pastan keitinvettä",
         "1 ps vegaanista “juusto” raastetta",
+        "n. 400 g pastaa",
         "1 ruukku salaattia",
         "1 kurkku",
         "tilkka oliiviöljyä",
@@ -15997,6 +16235,7 @@
         "1 tl suolaa",
         "ripaus mustapippuria",
         "ripaus sokeria",
+        "n. 2 dl vettä",
         "1 tlk kookosmaitoa",
         "1⁄2 chili",
         "1⁄2 limen mehu",
@@ -16023,6 +16262,7 @@
         "1⁄2 purjo",
         "2-3 valkosipulinkynttä",
         "2 rkl oliiviöljyä",
+        "n. 9-10 dl vettä",
         "1 kasvisfondi",
         "1 rkl valkoviinietikkaa",
         "1 tl suolaa",
@@ -16048,6 +16288,7 @@
         "1⁄2 sitruunan mehu",
         "1 prk kaurakermaa",
         "1⁄2 ruukku minttua",
+        "n. 400 g pastaa",
         "1 kurkku",
         "1 ruukku rucolaa",
         "ripaus suolaa ja mustapippurilla",
@@ -16064,6 +16305,7 @@
         "ripaus chilijauhetta",
         "1 rkl valkoviinietikkaa",
         "1 kasvisfondi",
+        "n. 1 l vettä",
         "1 prk ruokakermaa",
         "1 pkt vuohenjuustoa",
         "1-2 rkl vehnäjauhoja",
@@ -16080,7 +16322,8 @@
         "ripaus mustapippuria",
         "1 tlk paseerattua tomaattia",
         "1 rkl valkoviinietikkaa",
-        "1 ps parmesanraastetta"
+        "1 ps parmesanraastetta",
+        "n. 400g putkipastaa"
     ],
     [
         "1 pkt porsaan ulkofileetä",
@@ -16091,6 +16334,7 @@
         "1 prk ruokakermaa",
         "1 rkl sinappia",
         "1 rkl soijakastiketta",
+        "n. 800 g perunoita",
         "1 pala kaalia",
         "1- 2 porkkanaa",
         "tilkka rypsiöljyä",
@@ -16100,17 +16344,20 @@
     [
         "1 sipuli",
         "2 valkosipulinkynttä",
+        "n. 500 g perunoita",
         "1 paprika",
         "öljyä paistamiseen",
         "1 tlk kikherneitä",
         "1 tlk kookosmaitoa",
+        "n. 5-6 dl vettä",
         "1 kasvisfondi",
         "1 pala inkivääriä",
         "1⁄2 chili",
         "1 tl suolaa",
         "1-2 tl curryjauhetta",
         "ripaus mustapippuria",
-        "1⁄2 sitruunan mehu"
+        "1⁄2 sitruunan mehu",
+        "n. 3 dl ateriajyviä"
     ],
     [
         "2 porkkanaa",
@@ -16151,6 +16398,7 @@
         "1 tlk papuja",
         "1-2 dl vettä",
         "1 prk ranskankermaa",
+        "n. 3 dl kvinoaa",
         "mandariineja"
     ],
     [
@@ -16182,6 +16430,7 @@
         "1 tl kuivattua yrttisekoitusta",
         "1⁄2 rkl punaviinietikkaa",
         "1 prk creme fraichea",
+        "n. 800 g perunoita",
         "1-2 rkl voita tai oliiviöljyä",
         "ripaus suolaa",
         "1 ruukku salaattia",
@@ -16202,6 +16451,7 @@
         "1 rkl harissatahnaa",
         "ripaus suolaa ja mustapippuria",
         "1 pss rusinoita",
+        "1 ps basmatiriisiä",
         "1 prk jogurttia",
         "1⁄2 limen mehu",
         "ripaus suolaa, mustapippuria ja sokeria",
@@ -16245,6 +16495,7 @@
         "1 prk ruokakermaa",
         "1⁄2 sitruunan mehu",
         "1 ps parmesanraastetta",
+        "n. 400 g pastaa",
         "1⁄2 ruukku persiljaa"
     ],
     [
@@ -16262,6 +16513,7 @@
         "ripaus mustapippuria",
         "ripaus curryjauhetta",
         "1⁄2 tl kuivattua timjamia",
+        "n. 800 g perunoita",
         "1⁄2 rs rucolaa",
         "1 rs kirsikkatomaatteja",
         "ripaus suolaa",
@@ -16278,6 +16530,7 @@
         "(1 tl juustokuminaa)",
         "ripaus kuivattua rosmariinia",
         "ripaus mustapippuria",
+        "n. 3 dl couscousta",
         "1 tl suolaa",
         "4 dl kiehuvaa vettä",
         "2 rkl oliiviöljyä",
@@ -16315,6 +16568,7 @@
         "1 fenkoli",
         "1 rkl voita tai öljyä",
         "1-2 rkl tomaattipyreetä",
+        "n. 7-8 dl vettä",
         "1 prk ruokakermaa",
         "1 tlk maissia",
         "1 kalafondi",
@@ -16339,7 +16593,8 @@
         "2 tlk tonnikalaa",
         "1 prk kapriksia",
         "1 ps babypinaattia",
-        "1⁄2 ruukku persiljaa"
+        "1⁄2 ruukku persiljaa",
+        "n. 400g täysjyväspagettia"
     ],
     [
         "1 tanko porsaan jauhelihaa",
@@ -16386,6 +16641,7 @@
         "1⁄2 sitruuna",
         "1 prk kaurakermaa",
         "1 pkt mifusuikaleita curry & hunaja",
+        "n. 400 g tagliatellea",
         "1⁄2 ruukku persiljaa",
         "veriappelsiineja"
     ],
@@ -16401,6 +16657,7 @@
         "1 pkt chorizoa",
         "1 paprika",
         "1 tlk kikherneitä",
+        "n. 3,5 dl couscousia",
         "ripaus curryjauhetta tai juustokuminaa",
         "ripaus suolaa",
         "2 rkl oliiviöljyä",
@@ -16469,6 +16726,7 @@
         "1 rs babypinaattia",
         "1 prk kapriksia",
         "1⁄2 ruukku persiljaa",
+        "n. 400 g täysjyväspagettia",
         "1 ps parmesanraastetta"
     ],
     [
@@ -16505,12 +16763,14 @@
         "1 prk ruokakermaa",
         "1 dl pastan keitinvettä",
         "1⁄2 ruukku tilliä",
-        "1 sitruunan mehu"
+        "1 sitruunan mehu",
+        "n. 400 g pennepastaa"
     ],
     [
         "1 punasipuli",
         "3 porkkanaa",
         "4 punajuurta",
+        "n. 600 g perunoita",
         "2 omenaa",
         "2 rkl oliiviöljyä",
         "2 tl suolaa",
@@ -16542,6 +16802,7 @@
         "1 tl suolaa",
         "1 tl kanelia",
         "1⁄2 tl sokeria tai hunajaa",
+        "n. 3 dl couscousta",
         "1⁄2 tl suolaa",
         "1 sitruunan mehu",
         "2 rkl öljyä",
@@ -16580,7 +16841,8 @@
         "1 prk oatly påmackan",
         "1⁄2 tl suolaa",
         "1⁄2 tl mustapippuria",
-        "1⁄2 sitruunan mehu"
+        "1⁄2 sitruunan mehu",
+        "1 ps auringonkukansiemeniä"
     ],
     [
         "1 punasipuli",
@@ -16592,6 +16854,7 @@
         "öljyä paistamiseen",
         "1 1⁄2 tl suolaa",
         "ripaus mustapippuria",
+        "n. 400 g pastaa",
         "persimoneja"
     ],
     [
@@ -16647,6 +16910,7 @@
         "ripaus mustapippuria",
         "1 prk smetanaa",
         "1 rkl sinappia",
+        "n. 800 g perunoita",
         "2 rkl voita",
         "ripaus suolaa mustapippuria",
         "1 ruukku tilliä",
@@ -16664,6 +16928,7 @@
         "1 tl suolaa",
         "1⁄2 tl mustapippuria",
         "ripaus sokeria",
+        "n. 400 g spagettia",
         "1 kana-annosfondi",
         "1⁄2 ruukku persiljaa",
         "1 ps parmesaania"
@@ -16718,7 +16983,8 @@
         "1 ps parmesanraastetta",
         "1 rkl valkoviinietikkaa",
         "1 tl suolaa",
-        "1⁄2 mustapippuria"
+        "1⁄2 mustapippuria",
+        "n. 400 g linguine pastaa"
     ],
     [
         "1 pkt broilerin fileesuikaleita",
@@ -16745,10 +17011,12 @@
         "1⁄2 chili",
         "1 pala inkivääriä",
         "1 rs kirsikkatomaatteja",
+        "n. 500 g perunoita",
         "2 rkl tomaattipyreetä",
         "tilkka öljyä kuullottamiseen",
         "1⁄2 sitruunan mehu",
         "1 tlk kookosmaitoa",
+        "n. 4-5 dl vettä",
         "1⁄2 ruukku tilliä",
         "1 kalafondi",
         "1 1⁄2 tl suolaa",
@@ -16782,6 +17050,7 @@
         "1 rkl voita ja tilkka öljyä",
         "1 kasvisannosfondi",
         "1 prk ruokakermaa",
+        "n. 8 dl vettä",
         "1 rkl valkoviinietikkaa",
         "suolaa ja mustapippuria",
         "1⁄2 ruukku persiljaa",
@@ -16831,7 +17100,8 @@
         "2 tl kuivattua yrttisekoitusta",
         "1 rkl valkoviinietikkaa",
         "1 dl pastan keitinvettä",
-        "1 pkt fetajuustoa"
+        "1 pkt fetajuustoa",
+        "n. 400 g pastaa"
     ],
     [
         "1 pkt broilerin koipia",
@@ -16842,6 +17112,7 @@
         "1 rkl garam masalaa",
         "1⁄2 chili",
         "1 parsakaali",
+        "n. 3 dl bulguria",
         "1⁄2 sitruunan mehu",
         "1 rkl oliiviöljyä",
         "1 prk jogurttia",
@@ -16853,6 +17124,7 @@
     ],
     [
         "1 kevätsipuli",
+        "n. 500 g perunoita",
         "2 porkkanaa",
         "1 valkosipulinkynsi",
         "1 pala inkivääriä",
@@ -16900,7 +17172,8 @@
         "1 sitruunan kuori",
         "1⁄2 sitruunan mehu",
         "1 tlk kookosmaitoa",
-        "1⁄2 ruukku korianteria"
+        "1⁄2 ruukku korianteria",
+        "n. 400g putkipastaa"
     ],
     [
         "1 pkt maustamatonta nyhtökauraa",
@@ -16918,6 +17191,7 @@
         "ripaus kuivattua oreganoa",
         "ripaus sokeria",
         "1⁄2 rs basilikaa",
+        "n. 400 g täysjyväspagettia",
         "1 ps parmesanraastetta"
     ],
     [
@@ -17001,6 +17275,7 @@
         "1 rs maustamatonta tuorejuustoa",
         "1 – 1 1⁄2 dl pestokastiketta",
         "1-2 dl pastan keitinvettä",
+        "n. 400 g spaghettia",
         "öljyä paistamiseen",
         "1 ruukku salaattia",
         "1 rs kirsikkatomaatteja",
@@ -17035,6 +17310,7 @@
         "ripaus suolaa ja mustapippuria",
         "ripaus kuivattua basilikaa",
         "1 prk kapriksia",
+        "n. 400 g pastaa",
         "1 ps parmesanraastetta"
     ],
     [
@@ -17078,6 +17354,7 @@
         "ripaus mustapippuria",
         "1 kesäsipuli",
         "1 pkt uunijuureksia",
+        "n. 300 g uuden sadon perunoita",
         "2 rkl öljyä",
         "1⁄2 tl suolaa",
         "1⁄2 tl mustapippuria",
@@ -17159,6 +17436,7 @@
         "1 pkt kvinoaa"
     ],
     [
+        "n. 800 g perunoita",
         "2 rkl oliiviöljyä",
         "ripaus kuivattua rosmariinia",
         "1⁄2 tl suolaa",
@@ -17210,7 +17488,8 @@
         "1 tlk säilöttyjä kirsikkatomaatteja",
         "1 prk kalamata oliiveja",
         "oliiiviöljyä paistamiseen",
-        "1-2 dl pastan keitinvettä"
+        "1-2 dl pastan keitinvettä",
+        "N. 400 g putkipastaa"
     ],
     [
         "n. 400 g porkkanoita",
@@ -17277,6 +17556,8 @@
         "1 kana-annosfondi",
         "3 rkl tomaattipyreetä",
         "1 tlk kookosmaitoa",
+        "n. 3 dl punaisia linssejä",
+        "n. 5-6 dl vettä",
         "1⁄2 sitruuna",
         "1⁄2 ruukku korianteria"
     ],
@@ -17332,6 +17613,7 @@
         "1 kananmuna",
         "1 dl korppujauhoja",
         "1 dl jogurttia",
+        "300 g perunoita",
         "2 palsternakkaa",
         "5 porkkanaa",
         "1 tl kuivattua rosmariinia",
@@ -17402,7 +17684,8 @@
         "1 kurkku",
         "1⁄2 ruukku persilja",
         "ripaus suolaa ja mustapippuria",
-        "tilkka oliiviöljyä"
+        "tilkka oliiviöljyä",
+        "n. 1 kg uuden sadon perunoita"
     ],
     [
         "1 pkt jauhelihaa",
@@ -17450,6 +17733,7 @@
         "1⁄2 tl suolaa",
         "ripaus mustapippuria",
         "öljyä paistamiseen",
+        "n. 3 dl riisiä",
         "1 tl kurkumaa",
         "1 kesäsipuli",
         "tilkka öljyä",
@@ -17471,6 +17755,7 @@
         "1 prk paseerattua tomaattia",
         "2 dl vettä",
         "1 prk ruokakermaa",
+        "n. 400 g spagettia",
         "1 ps juustoraastetta",
         "1⁄2 ruukku persiljaa",
         "1 kurkku"
@@ -17490,7 +17775,8 @@
         "1 prk kalamata oliiveja",
         "öljyä paistamiseen",
         "1 dl pastan keitinvettä",
-        "1 rs tuoretta basilikaa"
+        "1 rs tuoretta basilikaa",
+        "n. 400 g putkipastaa"
     ],
     [
         "1 ps maapähkinöitä",
@@ -17556,7 +17842,8 @@
         "ripaus mustapippuria",
         "ripaus sokeria",
         "1 tlk kookosmaitoa",
-        "1⁄2 sitruunan mehu"
+        "1⁄2 sitruunan mehu",
+        "n. 3 dl kvinoaa"
     ],
     [
         "400 g putkipastaa",
@@ -17576,6 +17863,7 @@
     [
         "1 pkt kirjolohta",
         "2 kesäsipulia",
+        "n. 700 g uuden sadon perunoita",
         "3 porkkanaa",
         "1 l vettä",
         "1 kala-annosfondi",
@@ -17596,6 +17884,7 @@
         "1 limen mehu",
         "ripaus suolaa ja sokeria",
         "1⁄2 tl paprikajauhetta",
+        "n. 500 g varhaisperunoita",
         "2 rkl öljyä",
         "1 tl suolaa",
         "ripaus mustapippuria",
@@ -17613,11 +17902,13 @@
         "1 valkosipulinkynsi",
         "1 pala inkivääriä",
         "1⁄2 nippu kevätsipulia",
+        "n. 400 g pala varhaiskaalia",
         "3 rkl soijakastiketta",
         "1 rkl valkoviinietikkaa",
         "1⁄2 sitruuna",
         "2 tl hunajaa",
         "1 dl cashewpähkinöitä",
+        "n. 3 dl riisiä",
         "ripaus curry- tai kurkumajauhetta"
     ],
     [
@@ -17658,6 +17949,7 @@
         "ripaus mustapippuria",
         "1 prk smetanaa",
         "1 rkl sinappia",
+        "n. 800 g varhaisperunoita",
         "1⁄2 nippu kevätsipulia",
         "1 rkl voita",
         "ripaus suolaa mustapippuria",
@@ -17665,6 +17957,7 @@
         "1 kurkku"
     ],
     [
+        "n. 800 g varhaisperunoita",
         "2 kevätsipulia",
         "1 rkl voita",
         "1 rkl oliiviöljyä",
@@ -17818,6 +18111,7 @@
         "2 porkkanaa",
         "1 sipuli",
         "1 rkl rypsiöljyä",
+        "n. 1 l vettä",
         "2 laakerinlehteä",
         "10 maustepippuria",
         "1 tl suolaa (tai maun mukaan)",
@@ -17927,6 +18221,7 @@
         "1 pkt naudan jauhelihaa",
         "ripaus suolaa ja mustapippuria",
         "ripaus kuivattua oreganoa",
+        "n. 1 l vettä",
         "3 dl pastaa",
         "1 pss pakasteherneitä",
         "1 dl vihreää pestokastiketta"
@@ -17951,6 +18246,7 @@
     ],
     [
         "1 pkt broilerin jauhelihaa",
+        "n. 3 cm pala inkivääriä",
         "1 rkl soijakastiketta",
         "1 kananmuna",
         "1⁄2 dl korppujauhoja",
@@ -18224,6 +18520,7 @@
         "ripaus mustapippuria",
         "1 kasvisannosfondi",
         "3 dl kuivattuja punaisia linssejä",
+        "n. 5 dl vettä",
         "1 tlk kookosmaitoa",
         "1⁄2 ruukku korianteria",
         "1 pkt pizzataikinaa",
@@ -18247,6 +18544,7 @@
         "1⁄2 ruukku korianteria"
     ],
     [
+        "n. 800g perunoita",
         "2 rkl oliiviöljyä",
         "1 tl suolaa",
         "1 tl kuivattua timjamia",
@@ -18425,6 +18723,7 @@
         "1 sitruuna",
         "1⁄2 ruukku tilliä",
         "ripaus mustapippuria",
+        "n. 1 kg kukkakaalia",
         "2 rkl voita",
         "ripaus suolaa",
         "1 pss jääsalaattia",
@@ -18536,6 +18835,7 @@
         "2 valkosipulinkynttä",
         "1 rkl tomaattipyreetä",
         "1 pkt makkaroita",
+        "n. 600g pala savoijinkaalia",
         "1 prk aurinkokuivattuja tomaatteja",
         "2 rkl tomaattien öljyä",
         "2 tl kuivattua timjamia",
@@ -18789,7 +19089,8 @@
         "ripaus suolaa ja sokeria",
         "1 rkl valkoviinietikkaa",
         "1 tlk kookosmaitoa",
-        "1 dl vettä"
+        "1 dl vettä",
+        "n. 3 dl riisiä"
     ],
     [
         "1 sipuli",
@@ -18889,6 +19190,7 @@
         "1 sipuli",
         "2 valkosipulinkynttä",
         "2 porkkanaa",
+        "n. 400g perunoita",
         "1 ps lehtikaalia",
         "2 rkl oliiviöljyä",
         "1 tlk kokonaisia kuorittuja tomaatteja",
