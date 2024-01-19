@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { useLocalStorage } from "usehooks-ts";
 import { FaDownload } from "react-icons/fa";
+import { shuffle } from "lodash";
 import Recipe from "./Recipe";
 import Tags from "./Tags";
 import recipes from "./recipes.json";
@@ -12,13 +13,13 @@ const App = () => {
     "annotations",
     Array.from({ length: 0 }),
   );
-  const [pointer, setPointer] = useState(annotations.length);
+  const [pointer, setPointer] = useState(900);
   const [checked, setChecked] = useState(() => {
     const accept = annotations.at(pointer)?.accept;
     return tags.map((tag) => accept?.includes(tag) ?? false);
   });
 
-  document.title = String(annotations.length);
+  document.title = String(pointer);
 
   const handleSubmit = () => {
     const next = (pointer + 1) % recipes.length;
@@ -40,11 +41,17 @@ const App = () => {
   const download = () => {
     const blob = new Blob(
       [
-        Array.from(annotations)
-          .map((a) => {
+        Array.from(annotations.slice(0, 900))
+          .flatMap((a) => {
             a.options = tags.map((tag) => ({ id: tag, text: tag }));
             a.config = { choice_style: "multiple" };
-            return JSON.stringify(a);
+            const text = a.text.split("\n");
+            return Array.from({ length: 4 }, () => {
+              return JSON.stringify({
+                ...a,
+                text: shuffle(text).join("\n"),
+              });
+            });
           })
           .join("\n"),
       ],
